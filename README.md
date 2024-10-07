@@ -1,3 +1,4 @@
+### Tool for the AWS S3 bucket Enumeration 
 ## Usage:
 
     usage: AWSBucketDump.py [-h] [-D] [-t THREADS] -l HOSTLIST [-g GREPWORDS] [-m MAXSIZE]
