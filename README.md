@@ -14,3 +14,4 @@
   
      python AWSBucketDump.py -l BucketNames.txt -g interesting_Keywords.txt -D -m 500000 -d 1
 
+Good luck with the tool 
